@@ -59,11 +59,11 @@ delay.h, gpio.h, pwm.h, stdulils.h
 
 # PIN DIAGRAM :
 
-<img width="680" height="433" alt="image" src="https://github.com/user-attachments/assets/2a77bd17-3eb9-46e8-ba54-0ded1b16783f" />
+<img width="619" height="369" alt="image" src="https://github.com/user-attachments/assets/3a047c5b-aed8-4cbe-82e4-ed82c0891d09" />
 
 # CIRCUIT DIAGRAM:
 
-<img width="1035" height="509" alt="image" src="https://github.com/user-attachments/assets/919dec76-7ebd-4c84-b05e-a9e8e84f2e2a" />
+<img width="1071" height="542" alt="image" src="https://github.com/user-attachments/assets/344add23-41a1-402f-b223-b2547c8ccceb" />
 
 # PROGRAM:
 ```C
@@ -100,7 +100,7 @@ DELAY_ms(10);
 
 # Output:
 
-<img width="946" height="637" alt="image" src="https://github.com/user-attachments/assets/7d421ed2-6b97-4c04-a7c2-2799b30a6522" />
+<img width="756" height="519" alt="image" src="https://github.com/user-attachments/assets/3b4f55e2-8c24-4aef-a24d-0a500115e6d7" />
 
 # Result:
 Thus the embedded c program to interface LED and PWM with ARM processor LPC1768 is verified.
